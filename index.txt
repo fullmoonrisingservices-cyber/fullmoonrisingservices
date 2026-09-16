@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Full Moon Rising Services, LLC | Fair-Chance Staffing Toledo</title>
+    <!-- Tailwind CSS Secure CDN Framework -->
+    <script src="https://tailwindcss.com"></script>
+    <style>
+        .navy-brand { background-color: #1A2B4C; }
+        .text-navy { color: #1A2B4C; }
+        .gold-brand { background-color: #E5A93B; }
+        .text-gold { color: #E5A93B; }
+        .border-gold { border-color: #E5A93B; }
+    </style>
+</head>
+<body class="bg-gray-50 font-sans text-gray-800 antialiased">
+
+    <!-- 🌕 NAVIGATION BAR -->
+    <nav class="navy-brand text-white sticky top-0 z-50 shadow-md">
+        <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+            <div class="flex items-center space-x-3">
+                <!-- Clean Minimalist Circle Icon (Branding Asset) -->
+                <div class="w-8 h-8 rounded-full border-2 border-gold flex items-center justify-center font-bold text-gold text-lg">🌕</div>
+                <span class="font-bold tracking-wider text-xl uppercase">Full Moon Rising</span>
+            </div>
+            <div class="hidden md:flex space-x-8 font-medium">
+                <a href="#employers" class="hover:text-gold transition duration-200">For Employers</a>
+                <a href="#candidates" class="hover:text-gold transition duration-200">For Job Seekers</a>
+                <a href="#contact" class="hover:text-gold transition duration-200">Contact Us</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- 🚀 HERO / HEADER SECTION -->
+    <header class="navy-brand text-white py-24 px-6 border-b-4 border-gold text-center relative overflow-hidden">
+        <div class="max-w-4xl mx-auto relative z-10">
+            <h1 class="text-4xl md:text-6xl font-extrabold tracking-tight mb-6">
+                A Fresh Start for Talent.<br><span class="text-gold">A Smarter Pipeline for Business.</span>
+            </h1>
+            <p class="text-lg md:text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
+                Full Moon Rising Services, LLC connects Toledo’s premier employers with a motivated, pre-vetted workforce across all major business sectors.
+            </p>
+            <div class="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-4">
+                <a href="#employer-form" class="w-full sm:w-auto px-8 py-3 gold-brand text-navy font-bold rounded shadow hover:bg-yellow-500 transition duration-200 text-center">
+                    Hire Reliable Talent
+                </a>
+                <a href="#candidate-form" class="w-full sm:w-auto px-8 py-3 bg-transparent border-2 border-white font-bold rounded hover:bg-white hover:text-navy transition duration-200 text-center">
+                    Find a Career
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- 💼 EMPLOYER HUB SECTION -->
+    <section id="employers" class="py-20 px-6 max-w-7xl mx-auto">
+        <div class="text-center mb-16">
+            <h2 class="text-3xl md:text-4xl font-bold text-navy mb-4">Multi-Industry Sourcing with Zero Risk</h2>
+            <p class="text-gray-600 max-w-2xl mx-auto">We eliminate the primary risk barriers of traditional staffing networks through a pure contingency framework.</p>
+        </div>
+        
+        <!-- Grid Configuration for the 4 Value Perks -->
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+            <div class="bg-white p-8 rounded-lg shadow-sm border-t-4 border-navy">
+                <div class="text-3xl mb-4">🛡️</div>
+                <h3 class="font-bold text-xl mb-2 text-navy">100% Contingent</h3>
+                <p class="text-sm text-gray-600">No retainer fees or upfront investments. You only pay a placement fee if our candidate stays on the job.</p>
+            </div>
+            <div class="bg-white p-8 rounded-lg shadow-sm border-t-4 border-navy">
+                <div class="text-3xl mb-4">💵</div>
+                <h3 class="font-bold text-xl mb-2 text-navy">WOTC Optimizations</h3>
+                <p class="text-sm text-gray-600">Secure up to $2,400 in direct federal income tax credits per eligible multi-industry hire we deliver.</p>
+            </div>
+            <div class="bg-white p-8 rounded-lg shadow-sm border-t-4 border-navy">
+                <div class="text-3xl mb-4">📝</div>
+                <h3 class="font-bold text-xl mb-2 text-navy">Free Federal Bonding</h3>
+                <p class="text-sm text-gray-600">Every worker can be instantly backed on Day 1 by a zero-cost $5,000 fidelity bond from the Department of Labor.</p>
+            </div>
+            <div class="bg-white p-8 rounded-lg shadow-sm border-t-4 border-navy">
+                <div class="text-3xl mb-4">⏱️</div>
+                <h3 class="font-bold text-xl mb-2 text-navy">90-Day Guarantee</h3>
+                <p class="text-sm text-gray-600">Full performance backing and post-placement mentorship updates to safeguard your personnel retention.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- 🌕 CANDIDATE SECTOR SECTION -->
+    <section id="candidates" class="bg-gray-100 py-20 px-6">
+        <div class="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+            <div>
+                <h2 class="text-3xl md:text-4xl font-bold text-navy mb-6">Ready for Your Fresh Start?</h2>
+                <p class="text-gray-700 mb-6 leading-relaxed">
+                    We partner with top fair-chance businesses throughout Lucas County. Our placement services are 100% free to all area job seekers. We focus entirely on your work ethic, your integrity, and your professional future—not your past history.
+                </p>
+                <ul class="space-y-3 font-medium text-navy">
+                    <li class="flex items-center"><span class="text-gold mr-2">✔</span> Logistics & Warehousing Hubs</li>
+                    <li class="flex items-center"><span class="text-gold mr-2">✔</span> Skilled Commercial Construction Trades</li>
+                    <li class="flex items-center"><span class="text-gold mr-2">✔</span> Hospitality, Dining & Kitchen Support</li>
+                    <li class="flex items-center"><span class="text-gold mr-2">✔</span> General Administrative & Office Support</li>
+                </ul>
+            </div>
+            <div class="bg-white p-8 rounded-lg shadow-md border border-gray-200">
+                <h3 class="text-xl font-bold text-navy mb-4">Join Our Database</h3>
+                <p class="text-xs text-gray-500 mb-6">Fill out this secure questionnaire to trigger a 10-minute intake window call with an agent.</p>
+                
+                <!-- Candidate Intake Submission Layout -->
+                <form id="candidate-form" class="space-y-4">
+                    <div>
+                        <label class="block text-xs font-bold uppercase tracking-wider text-gray-600 mb-1">Full Name</label>
+                        <input type="text" required class="w-full border border-gray-300 p-2 rounded focus:outline-none focus:border-navy">
+                    </div>
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                        <div>
+                            <label class="block text-xs font-bold uppercase tracking-wider text-gray-600 mb-1">Phone Number</label>
+                            <input type="tel" required class="w-full border border-gray-300 p-2 rounded focus:outline-none focus:border-navy">
+                        </div>
+                        <div>
+                            <label class="block text-xs font-bold uppercase tracking-wider text-gray-600 mb-1">Preferred Industry</label>
+                            <select class="w-full border border-gray-300 p-2 rounded focus:outline-none focus:border-navy bg-white">
+                                <option>Logistics / Warehouse</option>
+                                <option>Trades / Construction</option>
+                                <option>Hospitality / Food Service</option>
+                                <option>Office / Admin Support</option>
+                            </select>
+                        </div>
+                    </div>
+                    <button type="submit" class="w-full py-3 navy-brand text-white font-bold rounded shadow hover:bg-slate-800 transition duration-200">Submit Application</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- 📧 EMPLOYER CONTACT CAPTURE HOOK -->
+    <section id="contact" class="py-20 px-6 max-w-4xl mx-auto">
+        <div class="bg-white p-8 md:p-12 rounded-lg shadow-md border border-gray-200">
+            <div class="text-center mb-8">
+                <h3 class="text-2xl font-bold text-navy">Corporate Staffing Inquiry</h3>
+                <p class="text-sm text-gray-600 mt-2">Toledo business operators can request an electronic Master Service Agreement framework or schedule an asset review sync here.</p>
+            </div>
+            
+            <form id="employer-form" class="space-y-4">
+                <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                    <div>
+                        <label class="block text-xs font-bold uppercase tracking-wider text-gray-600 mb-1">Company Name</label>
+                        <input type="text" required class="w-full border border-gray-300 p-2 rounded focus:outline-none focus:border-navy">
+                    </div>
+                    <div>
+                        <label class="block text-xs font-bold uppercase tracking-wider text-gray-600 mb-1">Contact Name</label>
+                        <input type="text" required class="w-full border border-gray-300 p-2 rounded focus:outline-none focus:border-navy">
+                    </div>
+                </div>
+                <div>
